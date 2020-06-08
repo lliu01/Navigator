@@ -1,0 +1,2 @@
+﻿ALTER ROLE [db_owner] ADD MEMBER [DESKTOP-PVE0HLD\yumei];
+

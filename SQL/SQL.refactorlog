@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="c896897b-578e-45ec-b102-adf640eff2fd" ChangeDateTime="06/08/2020 15:35:13">
+    <Property Name="ElementName" Value="[dbo].[SCC_Portfolio].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[SCC_Portfolio]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PortKey" />
+  </Operation>
+</Operations>
